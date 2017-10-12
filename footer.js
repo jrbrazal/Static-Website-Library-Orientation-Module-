@@ -1,0 +1,1 @@
+document.write("This website is developed by &copyJesse George Brazal.")
